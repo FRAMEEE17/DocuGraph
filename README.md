@@ -2,6 +2,7 @@
 
 📚 Project Overview
 A cutting-edge research project leveraging Knowledge Graph techniques and TransE embedding to analyze and extract structural insights from academic course lecture layouts.
+
 🎯 Project Objectives
 - Develop a comprehensive knowledge representation of lecture structural components
 - Apply TransE embedding for semantic relationship extraction
