@@ -1,6 +1,7 @@
 ***Academic Lecture Layout Analysis with Knowledge Graph***
 
 📚 Project Overview
+
 A cutting-edge research project leveraging Knowledge Graph techniques and TransE embedding to analyze and extract structural insights from academic course lecture layouts.
 
 🎯 Project Objectives
