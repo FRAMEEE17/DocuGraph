@@ -1,4 +1,4 @@
-***Academic Lecture Layout Analysis with Knowledge Graph***
+***DocuGraph: Deep Learning-Based Academic Lecture Doc Layout Analysis and Knowledge Graph Construction***
 
 📚 Project Overview
 
